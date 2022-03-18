@@ -6,8 +6,7 @@ Ofrecemos Servicio a toda la Republica Mexicana, tenemos experiencia en este apa
 Somos los mas capacitados para darle una solucion mas rapida y efectiva a tu equipo de computo.
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contamos con ayudantes y tecnicos especializados y profesionales para poder resolver cualquier tipo de problema en tu equipo de computo, desde una falla muy comun y sencilla, hasta las fallas mas complicadas de resolver para otros tecnicos y especialistas del mercado. 
 
 ```markdown
 Syntax highlighted code block
