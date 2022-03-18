@@ -1,9 +1,9 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 ## Bienvenidos a TEAM-WARE.
 
-You can use the [editor on GitHub](https://github.com/TEAM-WARE/TEAM-WARE.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Ofrecemos Servicio a toda la Republica Mexicana, tenemos experiencia en este apartado desde hace mas de 10 años, contamos con los mejores tecnicos del pais para un mejor funcionamiento de tu equipo de computo, y por ultimo te ofrecemos el mejor servicio, para que tengas las mejores experiencias.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
