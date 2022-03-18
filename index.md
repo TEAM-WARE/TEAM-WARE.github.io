@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
+## Bienvenidos a TEAM-WARE.github.io
 
 You can use the [editor on GitHub](https://github.com/TEAM-WARE/TEAM-WARE.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
