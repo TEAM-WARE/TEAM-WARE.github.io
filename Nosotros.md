@@ -1,4 +1,4 @@
-[Nosotros](./Nosotros.md) . [Servicios](./Servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](fAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 https://github.com/TEAM-WARE/TEAM-WARE.github.io/edit/main/Nosotros.md
 
