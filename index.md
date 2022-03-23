@@ -8,23 +8,7 @@ Somos los mas capacitados para darle una solucion mas rapida y efectiva a tu equ
 
 Contamos con ayudantes y tecnicos especializados y profesionales para poder resolver cualquier tipo de problema en tu equipo de computo, desde una falla muy comun y sencilla, hasta las fallas mas complicadas de resolver para otros tecnicos y especialistas del mercado. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
