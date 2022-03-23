@@ -12,10 +12,9 @@ Contamos con ayudantes y tecnicos especializados y profesionales para poder reso
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### ¿Quienes somos? ###
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TEAM-WARE/TEAM-WARE.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Somos una empresa seria con mas de 10 años de experiencia sobre este ambito, somos lo unicos que te resolvemos cualquuier tipo de problema, contamos con instalaciones de primera clase al igual con nuestros tecnicos, contamos con los mejores del pais e internacionales que nos ayudan a resolver cualquier complicacion en nuestro equipo.
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
