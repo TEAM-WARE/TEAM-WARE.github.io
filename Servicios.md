@@ -24,5 +24,12 @@ Ofrecemos Servicios a toda la Republica Mexicana, al igual ofrecemos servicios i
 
 -Instalacion de una red wifi.
 
+-El mantenimiento para equipo de cómputo, a pequeña, mediana y gran escala con especialistas en marcas reconocidas HP, Lexmark , etc.
+
+-Mantener los equipos tolerantes a fallas por largos periodos de tiempo, optimización y aumento de la vida útil de los equipos.
+
+-Prevención de reparaciones mayores.
+
+-Planeación, instalación y puesta a punto de redes de cómputo en diferentes plataformas Windows/Intel, Linux, etc.
 
 
