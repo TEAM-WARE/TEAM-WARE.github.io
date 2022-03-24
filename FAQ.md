@@ -1,7 +1,7 @@
 [Nosotros](./Nosotros.md) . [Servicios](./Servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
 
 
-## Preguntas Frecuencias
+## Preguntas Frecuentes Que Se Hacen Los Clientes
 
 ¿Qué hago cuando mi equipo no prende?
 - Lo primero que usted debe hacer es verificar que el cable de potencia este bien conectado a su
