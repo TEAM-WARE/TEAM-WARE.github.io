@@ -1,7 +1,6 @@
 [Nosotros](./Nosotros.md) . [Servicios](./Servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
 
 
-
 ## Preguntas Frecuencias
 
 ¿Qué hago cuando mi equipo no prende?
@@ -57,7 +56,7 @@ dirección colocar proxy.eafit.edu.co, y en el puerto 8080, pulse Aceptar y reca
 
 ¿Qué hago cuando al arrancar el equipo me aparece un mensaje de “Cambie el disco y
 pulse una tecla?
-R/ Este mensaje aparece por dos alternativas: 1-Existe un diskete al momento de arrancar el
+- Este mensaje aparece por dos alternativas: 1-Existe un diskete al momento de arrancar el
 equipo, en este caso debe retirar el disco y reiniciar. 2- No hay tabla de particiones, es decir que el
 equipo no está reconociendo el Disco duro, en este caso se tiene que reinstalar todo.
 
