@@ -3,6 +3,36 @@
 
 ## Preguntas Frecuentes Que Se Hacen Los Clientes
 
+¿TEAM-WARE es una empresa?
+- TEAM-WARE es una marca registrada cuyo propietario es una persona física con actividades empresariales. Somos una Pyme y contamos con colaboradores en ramas auxiliares de los servicios que ofrecemos. Por ejemplo, Hay un Webmaster que colabora con nosotros y es la persona que le ayudará si tiene Usted la necesidad de desarrollar una página web o darle mantenimiento. También tenemos programador quien colabora con nosotros cuando hay proyectos que impliquen el desarrollo de aplicaciones a la medida. De igual manera, contamos con un experto en medios digitales si requiere Usted un servicio de audio o video. Algunos de los servicios que se ofrecen son vía colaboración por lo que Usted tratará directamente con la persona que tiene el conocimiento para solucionarle su problema.
+
+¿Cuál es el horario de prestación del soporte técnico?
+- El horario de atención es de lunes a viernes de 09:30 a 19:00 hrs. y sábado de 09:30 a 14:00 horas con excepción de los días feriados.
+
+¿Es posible que atiendan en horarios fuera del horario normal de atención?
+- Sí. Siempre y cuando esto sea pactado con el cliente que tiene tal necesidad aceptando el costo que corresponda.
+
+¿Cuáles son los medios a través de los cuales brinda el soporte técnico TEAM-WARE?
+- El soporte técnico de Serot tiene 3 modalidades:
+• Laboratorio. La reparación se realiza en nuestras oficinas, servicio que se presta con el costo más accesible y en el mejor tiempo de respuesta.
+• Domicilio. El soporte en sitio se brinda en el hogar o en las oficinas del cliente, previa cita y dentro de nuestros horarios de atención, con costo de visita y no se bonifica siendo de $200.00 doscientos pesos.
+• On Line. Se accede en forma remoto a la pc del cliente. Servicio que requiere que la computadora a ser revisada cuente con un servicio de acceso a internet de alta velocidad y que éste no sea el problema.
+
+¿Cuáles son los medios de pago que TEAM-WARE tiene para el cobro de sus servicios?
+- • Tarjeta de Crédito (Visa y Master Card)
+• Efectivo
+• Paypal.
+• Depósito o Transferencia Bancaria, Tenemos cuenta en Banamex y HSBC.
+
+Aparte de dar soporte técnico, ¿TEAM-WARE vende computadoras?
+- Sí. TEAM-WARE Es orgullosamente distribuidor y centro autorizado de la marca 100% mexicana TEXA. En adición, cuenta con distintas modelos de computadoras armadas para las distintas necesidades de los clientes.
+
+¿Los técnicos de TEAM-WARE se encuentran certificados para brindar soporte técnico?
+- Sí. TEAM-WARE cuenta con técnicos certificados en cada una de las áreas técnicas que van desde reparación de pc, redes, administración de servidores y cableado estructurado.
+
+ ¿TEAM-WARE puede arreglar una computadora comprada en el extranjero?
+- Si, nosotros hemos reparado y reprogramado en sus idiomas originales cuando así lo han solicitado a clientes en idiomas, japonés, chino, danés, ingles, portugués, alemán, francés, checoslovaco, ruso, coreano entre otros.
+
 ¿Qué hago cuando mi equipo no prende?
 - Lo primero que usted debe hacer es verificar que el cable de potencia este bien conectado a su
 equipo y a la conexión eléctrica, también en caso de tener una extensión, verificar que este bien
@@ -113,3 +143,158 @@ que se conectará, y el nombre del recurso a utilizar, por ejemplo \\cliente1\D,
 pantalla ni impresas?
 - Se reconfigura la resolución de la pantalla a una menor, por escritorio, click derecho,
 configuración, reducir pixeles.
+
+¿Cuáles son los servicios principales que ofrecen?
+- • Reparación de PC y Mac, Sistemas operativos Mac, Windows y Linux. Damos soporte de mantenimiento y reparación a todas las marcas disponibles en el mercado.
+• Soporte Técnico de Computadoras.
+• Venta de PC y Laptops. Ensamble de equipo sobre medida de necesidades.
+• Instalación de Redes Cableadas y Wi Fi.
+• Instalación y Configuración de Servidores.
+• Venta de Servidores.
+• Soporte Técnico de Redes.
+• Instalación de Cámaras IP.
+• Pólizas de Mantenimiento Tecnológico
+• Asesoría telefónica.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
