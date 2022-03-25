@@ -42,10 +42,8 @@ Aparte de dar soporte técnico, ¿TEAM-WARE vende computadoras?
 ¿Cuál es el tiempo de diagnóstico de una PC en el laboratorio?
 - El tiempo de diagnóstico promedio es de 2 a 4 horas, comúnmente si nos facilita su equipo por la mañana en la tarde del mismo día ya tendremos revisado y analizado su equipo con una propuesta de servicio de reparación así como el tiempo estimado para repararlo. Sin embargo, hay casos más singulares que pueden retrasarnos un poco más sobre todo cuando el equipo tenga hardware mal funcionando, o bien, se requieran partes de reemplazo para hacer pruebas que no formen parte de nuestro inventario. Si se pregunta Usted por qué tiene costo el diagnostico, esto se debe al hecho de que para realizar un correcto diagnostico se tienen que realizar pruebas de desempeño que consumen recursos de espacio, energía eléctrica y tiempo de nuestro personal técnico.
 
-
 ¿El diagnóstico en el laboratorio tiene algún costo?
  - Si. El diagnóstico que se realiza en el laboratorio de Serot tiene un costo de $100.00 cien pesos que se bonifican en caso de aceptar el costo de reparación. De igual manera, si requiere Usted que nuestro diagnostico, opinión técnica, propuesta de servicio y costo del mismo sea extendida por escrito lo haremos con gusto. Comúnmente el diagnostico por escrito es requerido para ser descontado de alguna garantía extendida, servicio de suministro eléctrico, o bien para que sea autorizado por quien corresponda.
-
 
 ¿Cuáles son los tiempos de reparación de una pc en el laboratorio?
 - Orgullosamente, para el 90% de los equipos que recibimos es de 24 horas hábiles contados a partir de la autorización del presupuesto y el 10% restante depende de la disponibilidad de partes o bien, la autorización de nuestros clientes.
@@ -112,6 +110,14 @@ out” esto indica que usted no tiene red y debe comunicarse con el administrado
 Advanced y proxies, en este último verifique que el puntico negro este en la opción de Automatic
 proxy configuration, y en este que se encuentre la siguiente dirección: proxy.eafit.edu.co:8080,
 luego de verificar esto y de configurarlo valla a OK y recargue el navegador
+
+¿Que hago si mi computadora esta muy caliente?
+- Lo primero que deberías hacer es comprobar el flujo de aire, especialmente que todos los ventiladores del equipo están funcionando (puede ser que alguno se haya estropeado y no esté funcionando, produciendo bolsas de aire caliente en el interior del PC). Ten en cuenta que debes tener un buen diseño de flujo de aire para optimizar las temperaturas, con uno o varios ventiladores delante metiendo aire fresco al interior de la caja, y otros ventiladores detrás (e incluso en el techo) sacando el aire caliente fuera.
+
+¿Que hacer si mi pantalla se queda congelada?
+- Si la pantalla del ordenador se queda congelada, evidentemente estamos ante un síntoma nada bueno de que a nuestro ordenador le comienza a fallar algo. Pero más allá de saber qué le está ocurriendo, lo primero que querrás hacer en el momento que se congele la pantalla, será devolver a la vida esta, para que podamos utilizarla de forma normal. Pues bien, para ello, cuando os encontréis en esa situación, podremos resolverlo con estas combinaciones de teclas según sea el dispositivo con el que nos encontramos.
+- -Win+Control+Shift+B (en el caso de un ordenador de sobremesa o portátil)
+-Pulsar volumen arriba y debajo de forma simultánea durante tres veces seguidas (para las tabletas).
 
 ¿Qué hago cuando no me navega el Internet Explorer?
 - Abra el Internet Explorer, en la barra de herramientas vallase por herramientas, y dentro de
@@ -190,146 +196,4 @@ configuración, reducir pixeles.
 • Instalación de Cámaras IP.
 • Pólizas de Mantenimiento Tecnológico
 • Asesoría telefónica.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
