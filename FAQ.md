@@ -185,6 +185,9 @@ pantalla ni impresas?
 - Se reconfigura la resolución de la pantalla a una menor, por escritorio, click derecho,
 configuración, reducir pixeles.
 
+¿Por que mi telefono movil se calienta rapido?
+- Algunas veces, los smartphones se calientan porque hay demasiadas aplicaciones ejecutándose en segundo plano. Comprueba si tienes algún juego abierto o apps que estén utilizando funciones como el GPS. Usar el teléfono mientras se está cargando hace que el proceso sea más largo y ocasiona que se sobrecaliente.
+
 ¿Cuáles son los servicios principales que ofrecen?
 - • Reparación de PC y Mac, Sistemas operativos Mac, Windows y Linux. Damos soporte de mantenimiento y reparación a todas las marcas disponibles en el mercado.
 • Soporte Técnico de Computadoras.
@@ -197,3 +200,11 @@ configuración, reducir pixeles.
 • Pólizas de Mantenimiento Tecnológico
 • Asesoría telefónica.
 
+¿Por que no carga mi telefono mivil?
+- Si tu móvil no carga de repente puede deberse a las siguientes causas: Que el cable o el adaptador del cargador estén rotos o dañados. Que el puerto USB esté sucio o dañado. Puede que el fallo sea de la batería del móvil.
+
+¿Por que la impresora no imprime?
+- Comprueba si se ha iluminado alguna luz o si aparece algún mensaje de error. Asegúrate de que la impresora tiene papel. Comprueba si tienes instalados cartuchos de tinta o si estos están vacíos. Verifica que el cable USB está bien conectado al ordenador o que la impresora está conectada a través de una red wifi.
+
+¿Porque la computadora no activa la webcam?
+-La causa por la que podrías tener estos problemas es variable, sin embargo, suele tener relacion con que el hardware no funciona correctamente, tienes los drivers desactualizados, hay problemas con la configuración o que tu antivirus está bloqueando el dispositivo.
