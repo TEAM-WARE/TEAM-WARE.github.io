@@ -24,6 +24,9 @@
 • Paypal.
 • Depósito o Transferencia Bancaria, Tenemos cuenta en Banamex y HSBC.
 
+¿Cómo son las tarifas cuando se requiere que el soporte técnico sea en el domicilio?
+- Las tarifas del domicilio son las mismas que en laboratorio mas el costo de visita que es de $200.00 que no se bonifican. Sin embargo, dependiendo de la falla que presente el equipo, el técnico le indicará si es necesario trasladar el equipo a nuestro laboratorio y el tiempo estimado para su devolución. Comúnmente si el equipo requiere partes de reemplazo o ser formateado el equipo será trasladado a nuestro laboratorio. En estos casos es muy probable que el tiempo para resolverle su problema sea mayor.
+
 Aparte de dar soporte técnico, ¿TEAM-WARE vende computadoras?
 - Sí. TEAM-WARE Es orgullosamente distribuidor y centro autorizado de la marca 100% mexicana TEXA. En adición, cuenta con distintas modelos de computadoras armadas para las distintas necesidades de los clientes.
 
@@ -32,6 +35,38 @@ Aparte de dar soporte técnico, ¿TEAM-WARE vende computadoras?
 
  ¿TEAM-WARE puede arreglar una computadora comprada en el extranjero?
 - Si, nosotros hemos reparado y reprogramado en sus idiomas originales cuando así lo han solicitado a clientes en idiomas, japonés, chino, danés, ingles, portugués, alemán, francés, checoslovaco, ruso, coreano entre otros.
+
+¿Cuál es el tiempo de Garantía de las reparaciones?
+- El tiempo de garantía de la mano de obra es de 30 días desde la fecha de reparación. Esta garantía es de satisfacción, es decir corregiremos cualquier detalle o bien, le ayudaremos con cualquier necesidad que tenga, como puede ser instalar una impresora o su acceso a internet. El hardware vendido tendrá el tiempo de garantía del propio repuesto que comúnmente es de un año.
+
+¿Cuál es el tiempo de diagnóstico de una PC en el laboratorio?
+- El tiempo de diagnóstico promedio es de 2 a 4 horas, comúnmente si nos facilita su equipo por la mañana en la tarde del mismo día ya tendremos revisado y analizado su equipo con una propuesta de servicio de reparación así como el tiempo estimado para repararlo. Sin embargo, hay casos más singulares que pueden retrasarnos un poco más sobre todo cuando el equipo tenga hardware mal funcionando, o bien, se requieran partes de reemplazo para hacer pruebas que no formen parte de nuestro inventario. Si se pregunta Usted por qué tiene costo el diagnostico, esto se debe al hecho de que para realizar un correcto diagnostico se tienen que realizar pruebas de desempeño que consumen recursos de espacio, energía eléctrica y tiempo de nuestro personal técnico.
+
+
+¿El diagnóstico en el laboratorio tiene algún costo?
+ - Si. El diagnóstico que se realiza en el laboratorio de Serot tiene un costo de $100.00 cien pesos que se bonifican en caso de aceptar el costo de reparación. De igual manera, si requiere Usted que nuestro diagnostico, opinión técnica, propuesta de servicio y costo del mismo sea extendida por escrito lo haremos con gusto. Comúnmente el diagnostico por escrito es requerido para ser descontado de alguna garantía extendida, servicio de suministro eléctrico, o bien para que sea autorizado por quien corresponda.
+
+
+¿Cuáles son los tiempos de reparación de una pc en el laboratorio?
+- Orgullosamente, para el 90% de los equipos que recibimos es de 24 horas hábiles contados a partir de la autorización del presupuesto y el 10% restante depende de la disponibilidad de partes o bien, la autorización de nuestros clientes.
+
+¿En el caso de que sea necesario un Formateo con Respaldo, que cosas son necesarias que el cliente nos informe?
+- • La información que requiere que se realice Respaldo.
+• La ubicación de la información.
+• El Sistema de Mails que se utiliza y si Usted desea que se respalde.
+
+¿Qué cosas se perderán o no se pueden resguardar en un servicio de formateo con respaldo?
+No se podrá resguardar lo siguiente y deberá volverse a instalar
+- • Programas y Software
+• Aplicaciones Especiales. Ej. Programa del Celular
+• Periféricos (Ej. Impresoras – Web Cams)
+• Password de la conexión a Internet
+
+Mi computadora tiene información muy importante, ¿Qué seguridad tengo de no perderla?
+- Con nosotros siempre pondremos especial cuidado en la información cuando Usted nos encargue el respaldo de la misma. Usted no perderá ni uno solo de sus archivos, sólo deberá indicarnos que hay que hacer respaldo y en mucho, nos será útil si Usted nos realiza la lista de tareas que desea que realicemos. Si Usted maneja algún software de administración de correo como Outlook o Eudora, será importante nos lo indique.
+
+ Mi computadora la han revisado en otro centro de servicio y quisiera una segunda opinión, ¿Me la pueden revisar?
+- Por supuesto que sí, con nosotros tendra la confianza que la podramos revisar e incluso la podemos revisar, nosotros con mucho gusto lo haremos.
 
 ¿Qué hago cuando mi equipo no prende?
 - Lo primero que usted debe hacer es verificar que el cable de potencia este bien conectado a su
