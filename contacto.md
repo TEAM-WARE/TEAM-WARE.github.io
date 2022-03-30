@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-<form action="Aquí va tu link de formspree.io" method="post">
+<form action="https://formspree.io/f/xrgjalpw" method="post">
 Name: <input type="text" name="name"><br>
 Apellido: <input type="text">
 Telefono: <input type="tel">
